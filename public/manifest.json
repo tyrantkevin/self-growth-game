@@ -1,0 +1,17 @@
+{
+  "name": "自我改变实验",
+  "short_name": "自我改变",
+  "description": "游戏化习惯养成，减少无意义刷手机，改善睡眠与情绪",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
